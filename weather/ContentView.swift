@@ -27,7 +27,7 @@ struct ContentView: View {
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 180, height: 180)
                     
-                    Text("78°")
+                    Text("79°")
                         .font(.system(size: 76, weight: .medium))
                         .foregroundColor(.white)
                 }
